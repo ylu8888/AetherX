@@ -14,7 +14,7 @@ AEtherX is a full-stack question and answer website for programmers, similar to 
 
 ## Asking a Question
 
-![image](https://github.com/Aadith2022/fakestack/assets/113648765/6bca90c6-35b3-474f-9751-aba3efcf9f72)
+<img width="878" alt="image" src="https://github.com/ylu8888/HistoriaHub/assets/123523291/9a52b2e8-0728-4b1b-b1c9-8c437829e8ca">
 
 ## Question Details
 
@@ -37,7 +37,7 @@ AEtherX is a full-stack question and answer website for programmers, similar to 
 
 ## Edit Question
 
-![image](https://github.com/Aadith2022/fakestack/assets/113648765/72810ac9-8d04-4b51-b4a4-9071dd5d78c6)
+<img width="798" alt="image" src="https://github.com/ylu8888/HistoriaHub/assets/123523291/6d0c8ca6-6f1a-436a-81fd-955c90ba5bce">
 
 ## View Created Tags
 
