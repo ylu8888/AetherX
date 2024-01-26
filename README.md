@@ -1,6 +1,8 @@
 # Fake Stack Overflow
 
-AEtherX is a full-stack question and answer website for programmers, similar to Stack Overflow. This semester-long project was made during my CSE 316 course (Software Development) from Aug to Dec 2023. Our team wrote 7000+ lines of code using React, Node.js, Express, MongoDB (MERN Stack), & Tailwind CSS. 
+AEtherX is a full-stack question and answer website for programmers, similar to Stack Overflow. This semester-long project was made during my CSE 316 course (Software Development) from Aug to Dec 2023. 
+
+Tech Used: Our team wrote 7000+ lines of code using React, Node.js, Express, MongoDB (MERN Stack), & Tailwind CSS. 
 
 ## Desktop Preview
 
