@@ -53,16 +53,6 @@ AEtherX is a full stack question-and-answer website for programmers, similar to 
 
 ![image](https://github.com/Aadith2022/fakestack/assets/113648765/3b7291d7-1c6a-4f90-a08c-6df23988cb80)
 
-## Instructions to setup and run project
-* Install the dependencies (express, mongoose, axios, cors, nodejs etc) and additional libraries bcrypt and express-sessions. Install MongoDB and make a database called fake_so and start it from the terminal(mongosh). 
-
-* Run two terminals in VSCode, one for the client using npm start, and one for the server using nodemon server.js. 
-
-* From the server terminal, run the script using this command: node init.js mongodb://127.0.0.1:27017/fake_so admin 123
-
-* The command takes in admin username and admin password as the last two arguments. This script will populate the database with some initial values and from there you will be able to access the project from localhost:3000
-
-
 ## UML Diagram
 
 ![uml](https://github.com/Aadith2022/fakestack/assets/113648765/70baf4f8-dff6-49d9-90db-71d9729ef944)
@@ -71,3 +61,13 @@ AEtherX is a full stack question-and-answer website for programmers, similar to 
 ## Database Diagram
 
 ![database](https://github.com/Aadith2022/fakestack/assets/113648765/56efdd0d-5b00-41f4-ab7d-aa7482c3b93e)
+
+
+## Instructions to setup and run project
+* Install the dependencies (express, mongoose, axios, cors, nodejs etc) and additional libraries bcrypt and express-sessions. Install MongoDB and make a database called fake_so and start it from the terminal(mongosh). 
+
+* Run two terminals in VSCode, one for the client using npm start, and one for the server using nodemon server.js. 
+
+* From the server terminal, run the script using this command: node init.js mongodb://127.0.0.1:27017/fake_so admin 123
+
+* The command takes in admin username and admin password as the last two arguments. This script will populate the database with some initial values and from there you will be able to access the project from localhost:3000
