@@ -12,23 +12,42 @@ AEtherX is a full-stack question and answer website for programmers, similar to 
 
 ![image](https://github.com/Aadith2022/fakestack/assets/113648765/0cdf10e6-650b-4db8-8745-651130465d1e)
 
+## Asking a Question
+
 ![image](https://github.com/Aadith2022/fakestack/assets/113648765/6bca90c6-35b3-474f-9751-aba3efcf9f72)
+
+## Question Details
 
 ![image](https://github.com/Aadith2022/fakestack/assets/113648765/8bb96fa3-1a27-404b-87d0-79c1f2e77d36)
 
+## Answering a Question
+
 ![image](https://github.com/Aadith2022/fakestack/assets/113648765/74b88cfe-7ca7-410e-887e-3d5483f84eea)
+
+## Tags Page
 
 ![image](https://github.com/Aadith2022/fakestack/assets/113648765/bed3009e-6f65-431c-8421-853010c19841)
 
+
 ![image](https://github.com/Aadith2022/fakestack/assets/113648765/3c59c855-ad10-4414-8f39-8c18660bc996)
+
+## Profile Page
 
 ![image](https://github.com/Aadith2022/fakestack/assets/113648765/5eb35dcd-5861-44f1-b489-96ad8393e261)
 
+## Edit Question
+
 ![image](https://github.com/Aadith2022/fakestack/assets/113648765/72810ac9-8d04-4b51-b4a4-9071dd5d78c6)
+
+## View Created Tags
 
 ![image](https://github.com/Aadith2022/fakestack/assets/113648765/17ffbab0-00ed-49f7-a362-512a9eaac4e1)
 
+## View Answered Questions
+
 ![image](https://github.com/Aadith2022/fakestack/assets/113648765/d68efc54-062b-44ab-85fe-adc2d108011c)
+
+## Admin Account
 
 ![image](https://github.com/Aadith2022/fakestack/assets/113648765/3b7291d7-1c6a-4f90-a08c-6df23988cb80)
 
