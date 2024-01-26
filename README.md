@@ -33,7 +33,7 @@ AEtherX is a full-stack question and answer website for programmers, similar to 
 
 ## Profile Page
 
-![image](https://github.com/Aadith2022/fakestack/assets/113648765/5eb35dcd-5861-44f1-b489-96ad8393e261)
+<img width="1361" alt="image" src="https://github.com/ylu8888/HistoriaHub/assets/123523291/c38259e5-b497-4262-ad4c-415fbdf8fae1">
 
 ## Edit Question
 
