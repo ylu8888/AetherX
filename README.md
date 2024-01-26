@@ -4,9 +4,9 @@ AEtherX is a full stack question-and-answer website for programmers, similar to 
 
 * Led team of 4: organized meetings, delegated tasks, helped teammates debug, created code templates for teammates. Received final grade of 100%.
 
-* Implemented the entire user login system to allow CRUD operations on the users & secured user authentication.
-
 * App mimics 15 features of Stack Overflow with a secure RESTful API and ensures confidentiality for 90% of API requests.
+
+* Implemented the entire user login system to allow CRUD operations on the users & secured user authentication.
   
 * Tech Used: Our team wrote 7000+ lines of code using React, Node.js, Express, MongoDB (MERN Stack), & Tailwind CSS. 
 
