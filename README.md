@@ -2,14 +2,6 @@
 
 AEtherX is a full-stack question and answer website for programmers, similar to Stack Overflow. This semester-long project was made during my CSE 316 course (Software Development) from Aug to Dec 2023. Our team wrote 7000+ lines of code using React, Node.js, Express, MongoDB (MERN Stack), & Tailwind CSS. 
 
-
-## Load Page
-
-This is the page that is seen once you load up the website. Here a user has the optino to either register, log into an existing account, or continue onto the site as a guest
-
-![image](https://github.com/Aadith2022/fakestack/assets/113648765/dab95d5d-2282-46b0-8e10-f6bf1a4e2e15)
-
-
 ## Desktop Preview
 
 ![image](https://github.com/Aadith2022/fakestack/assets/113648765/0cdf10e6-650b-4db8-8745-651130465d1e)
